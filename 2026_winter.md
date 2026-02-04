@@ -29,6 +29,15 @@
 * Finalize selection for NC (including 1gMp) by the end of summer  
     * Depends on the production of dedicated samples; currently waiting for PR approval for the GEN `fcl` to `sbncode`
 
+### Possible plots
+1. BNB MC prediction for signal and background after various selection stages, as a function of reconstructed photon energy, with MCintrinsicstat+stat errors
+1. BDT classifier distributions with breakdown of MC-predicted signal vs. background
+1. Selected signal vs. background distributions of most important BDT variables
+1. Reconstructed Delta mass for final selected 1g1p events (BNB MC prediction, with MCintrinsicstat+stat errors)
+1. Signal selection efficiency as function of true photon energy
+
+1. Data vs MC comparisons at different selection stages using open data (need to be area-normalized comparisons probably)
+
 ## Conferences
 
 
