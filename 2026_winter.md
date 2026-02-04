@@ -70,7 +70,8 @@
 * Is it possible to have non-continuous periods?  
 * Ideally request support for May, July, and August  
     * May: flight and rental car for 1–2 weeks  
-    * Housing for all periods  
+    * Housing for all periods
+    * ~ $3000 total
 
 ## Etc.
 * Would like to go to Korea before the summer, around early-mid April (04/04–04/19)
