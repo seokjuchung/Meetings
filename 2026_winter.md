@@ -60,7 +60,7 @@
 
 * NNN (Next Generation Nucleon Decay and Neutrino Detectors) (Korea, mid October – mid November)  
     * More focus on individual experiments; usually one general talk per experiment  
-    * Venue close to home (15-minute bus ride); would consider paying out of pocket if it is in mid November  
+    * Venue close to home (15-minute bus ride); if not presenting, would consider paying out of pocket if it is in mid November 
 
 ## Moving to Fermilab
 * Current lease ends 05/31  
