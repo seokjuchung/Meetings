@@ -24,7 +24,7 @@
 ### 1g0p
 * Corresponding variable for delta mass?  
 * See technote regarding “reconstructed” delta mass  
-    * Could consider using various shower kinematic variables that are important in the BDT  
+* Could consider using various shower kinematic variables that are important in the BDT 
 
 * Finalize selection for NC (including 1gMp) by the end of summer  
     * Depends on the production of dedicated samples; currently waiting for PR approval for the GEN `fcl` to `sbncode`
@@ -76,11 +76,12 @@
 * Would like to move (or at least have an IL address in the village) a bit early, around mid-May, for paperwork and shipping luggage  
 
 ## URA
-* Is it possible to have non-continuous periods?  
+* Is it possible to have non-continuous periods?
+* Yufan to apply for July-September
 * Ideally request support for May, July, and August  
     * May: flight and rental car for 1–2 weeks  
     * Housing for all periods
-    * ~ $3000 total
+    * ~ $2500 (100 + 500 + 1800) total
 
 ## Etc.
-* Would like to go to Korea before the summer, around early-mid April (04/04–04/19)
+* Would like to go to Korea before Summer, around early-mid April (04/04–04/19)
