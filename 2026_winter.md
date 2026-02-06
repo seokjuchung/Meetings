@@ -7,10 +7,14 @@
 * 4 weeks for a major revision, 2 weeks for a minor revision  
 * Ask for an extension while Georgia is on leave?
 
+    * If minor just work on it, if major send Georgia Whatsapp
+
+
 ## RAD
 * Focus on implementing the current model on the GPU server for ICEBERG  
 * Restart the FPGA investigation in mid or late summer?  
     * Possibility to work with Sunny's group on this (if they are willing), as they have a model that has been more thoroughly studied with labeled data for specific cases (SN vs. radiological background)
+    * NSF due August, start FPGA investigation after GPU implementation is done
 
 ## NC Delta
 * SBND policy requires **“Preliminary”** (not “Work in Progress”) results for the Neutrino poster  
@@ -85,3 +89,6 @@
 
 ## Etc.
 * Would like to go to Korea before Summer, around early-mid April (04/04–04/19)
+
+## Links
+1. [Spring 2026 Google Doc](https://docs.google.com/document/d/1Cjomvmp6vWm0YnmNXUcld2NbzYchcL0KqiS2lnaYJ_0/edit?tab=t.0)
